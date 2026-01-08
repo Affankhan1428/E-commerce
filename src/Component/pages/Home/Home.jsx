@@ -18,6 +18,7 @@ import image12 from './ChatGPT4.png'
 function Home() {
   return (
     <div>
+      <h1>Hello Happy</h1>
       <section className="card">
         <div className="child">
           <h1>FIND CLOTHS <br /> THAT MATCHES <br /> YOUR STYLE</h1>
